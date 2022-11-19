@@ -1,0 +1,15 @@
+.content-body {
+    display: block;
+    text-align: center;
+    padding: 10%;
+  }
+  
+  .title {
+    font-size: 100px;
+    padding-bottom: 5%;
+  }
+  
+  .content {
+    font-size: 20px;
+  }
+  

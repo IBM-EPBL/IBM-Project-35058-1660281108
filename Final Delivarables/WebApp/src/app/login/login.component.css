@@ -1,0 +1,30 @@
+.card-content {
+    padding: 13%;
+    max-width: 600px;
+    max-height: 600px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .header {
+    text-align: center;
+    color: cyan;
+  }
+  
+  .full-width {
+    width: 80%;
+  }
+  
+  .email-input {
+    padding-top: 10px;
+  }
+  
+  .register {
+    padding-top: 2%;
+    font-weight: 600;
+  }
+  
+  .register a{
+    color: aqua;
+  }
+  
