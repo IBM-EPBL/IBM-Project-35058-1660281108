@@ -4,4 +4,4 @@ Team Members: <br/>
 Team Lead - Chandraprakash Reddy K <br/>
 M1 Lead - Adarsh P <br/>
 M2 Lead - Akash P <br/>
-M3 Lead - Ganeshwar B <br/>
+M3 Lead - Ganeshwer B <br/>
